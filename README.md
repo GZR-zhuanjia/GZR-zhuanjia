@@ -43,7 +43,6 @@
   <img src="https://streak-stats.demolab.com?user=GZR-zhuanjia&amp;hide_border=true&amp;background=0D1117&amp;stroke=30363D&amp;ring=58A6FF&amp;fire=A371F7&amp;currStreakLabel=58A6FF&amp;sideLabels=C9D1D9&amp;dates=8B949E" alt="GitHub contribution streak" />
 </div>
 
-> 统计卡片由第三方服务生成，可能受其可用性和 GitHub API 限额影响。语言占比基于仓库统计，不代表实际技能熟练度。
 
 ### 🚀 Projects & repositories / 项目与仓库
 
@@ -56,12 +55,6 @@
   </a>
 </div>
 
-| Repository | Description |
-|:--|:--|
-| 📼 [AndroidFormatFactory](https://github.com/GZR-zhuanjia/AndroidFormatFactory) | 基于 Kotlin 和 Jetpack Compose 的 Android 本地多媒体格式转换工具 |
-| 📱 [MaaFwApp](https://github.com/GZR-zhuanjia/MaaFwApp) | MaaFramework 的 Android GUI，面向移动端自动化任务 |
-| 🐱 [MAA-Meow](https://github.com/GZR-zhuanjia/MAA-Meow) | 在 Android 设备上原生运行 MAA 的相关项目 |
-| 🛰️ [MaaEnd](https://github.com/GZR-zhuanjia/MaaEnd) | 基于 MaaFramework 的《明日方舟：终末地》自动化项目 |
 
 <div align="center">
   <sub>Thanks for stopping by · 感谢来访 ✨</sub>
