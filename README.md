@@ -33,10 +33,10 @@
 
 <div align="center">
   <a href="https://github.com/GZR-zhuanjia">
-    <img src="https://github-readme-stats.vercel.app/api?username=GZR-zhuanjia&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=A371F7" height="165" alt="GitHub stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=GZR-zhuanjia&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=A371F7" height="165" alt="GitHub stats" />
   </a>
   <a href="https://github.com/GZR-zhuanjia?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GZR-zhuanjia&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9" height="165" alt="Top languages" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=GZR-zhuanjia&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9" height="165" alt="Top languages" />
   </a>
 </div>
 <div align="center">
@@ -49,10 +49,10 @@
 
 <div align="center">
   <a href="https://github.com/GZR-zhuanjia/AndroidFormatFactory">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GZR-zhuanjia&amp;repo=AndroidFormatFactory&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=A371F7" alt="AndroidFormatFactory repository card" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=GZR-zhuanjia&amp;repo=AndroidFormatFactory&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=A371F7" alt="AndroidFormatFactory repository card" />
   </a>
   <a href="https://github.com/GZR-zhuanjia/MaaFwApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GZR-zhuanjia&amp;repo=MaaFwApp&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=A371F7" alt="MaaFwApp repository card" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=GZR-zhuanjia&amp;repo=MaaFwApp&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=A371F7" alt="MaaFwApp repository card" />
   </a>
 </div>
 
